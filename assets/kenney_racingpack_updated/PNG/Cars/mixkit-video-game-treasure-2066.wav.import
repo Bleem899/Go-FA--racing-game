@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mixkit-video-game-treasure-2066.wav-2bbde9d96c695bf6d1d4c6d0f2c76a60.sample"
+
+[deps]
+
+source_file="res://assets/kenney_racingpack_updated/PNG/Cars/mixkit-video-game-treasure-2066.wav"
+dest_files=[ "res://.import/mixkit-video-game-treasure-2066.wav-2bbde9d96c695bf6d1d4c6d0f2c76a60.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/robotik-love-2137.mp3-c380204c2ab76add48bacb86d91e860b.mp3str"
+
+[deps]
+
+source_file="res://assets/kenney_racingpack_updated/PNG/Cars/robotik-love-2137.mp3"
+dest_files=[ "res://.import/robotik-love-2137.mp3-c380204c2ab76add48bacb86d91e860b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mixkit-completion-of-a-level-2063.wav-f3e08501210bb4a0cd58c1c12dbe6125.sample"
+
+[deps]
+
+source_file="res://assets/kenney_racingpack_updated/PNG/Cars/mixkit-completion-of-a-level-2063.wav"
+dest_files=[ "res://.import/mixkit-completion-of-a-level-2063.wav-f3e08501210bb4a0cd58c1c12dbe6125.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
